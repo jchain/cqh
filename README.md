@@ -1,0 +1,4 @@
+cqh
+===
+
+Console Quick Hinter
